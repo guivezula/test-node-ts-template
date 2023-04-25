@@ -19,3 +19,7 @@ it runs the tests with watch mode
 ## Considerations
 
 There is an example on ./src/sum which is implementing a test and it is running its test. Also, you are able to see an example to print the results on ./src/index.ts
+
+### Recource
+
+https://khalilstemmler.com/blogs/typescript/node-starter-project/
